@@ -1,1 +1,2 @@
 # interviewscodes
+note for interview 
