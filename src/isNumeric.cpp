@@ -4,7 +4,6 @@
 using namespace std;
 bool scanInteger(const char** str);
 bool scanUnsignedInteger(const char** str);
-
 bool isNumeric(const char* str){
 	if(str==nullptr)
 		return false;
@@ -49,9 +48,6 @@ int main(int argc, char const *argv[])
 	//char b = {'.','1','2','4'};
 	string str = ".124";
 	std::vector<char> v;
-	
-	
-
 	return 0;
 }
 

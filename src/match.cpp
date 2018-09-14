@@ -1,5 +1,4 @@
 #include <iostream>
-
 bool match(char* str,char* pattern){
 	if(str==nullptr||pattern==nullptr)
 		return false;
